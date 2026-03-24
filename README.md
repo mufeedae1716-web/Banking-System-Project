@@ -1,5 +1,9 @@
 # Banking-System-Project
-This project is a basic banking system that allows users to login, deposit money, withdraw money, and check their balance. It is created using Python and helps to understand basic programming concepts like functions, loops, and classes.
+This project is a basic banking system developed using Python. It allows users to perform simple banking operations such as account login, depositing money, withdrawing money, and checking account balance.
+
+The system uses a class-based approach Object-Oriented Programming to manage user data like username, password, and balance. It also includes a menu-driven interface for easy user interaction.
+
+This project helps in understanding core Python concepts like functions, loops, conditional statements, and classes.
 
 
 
